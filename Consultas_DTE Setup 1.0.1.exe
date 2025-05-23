@@ -1,8 +1,5 @@
 version: 1.0.0
 files:
-  - url: Consultas_DTE Setup 1.0.0.exe
-    sha512: +kpJS58MFAwk86+3BWmRKodeH+N0JybnUin6bOKjFkHPjNK/Lrxxi152q8ZNBpyJHfvVFcTfA5Gt5UolONHG9g==
-    size: 120878193
+  - url: Consultas_DTE Setup 1.0.1.exe
 path: Consultas_DTE Setup 1.0.0.exe
-sha512: +kpJS58MFAwk86+3BWmRKodeH+N0JybnUin6bOKjFkHPjNK/Lrxxi152q8ZNBpyJHfvVFcTfA5Gt5UolONHG9g==
 releaseDate: '2025-05-22T04:11:32.724Z'
