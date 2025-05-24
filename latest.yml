@@ -1,8 +1,8 @@
 version: 1.0.1
 files:
-  - url: Consultas_DTE Setup 1.0.1.exe
-    sha512: hsnoFqiWdv9dcJKpAQ9cgfFVHCObyuUSCtiJy+yFbDLrGgE5aLbxoODOcDNl3Vg+usyOx6N2jqKO1Q2oJMdVBA==
-    size: 119305064
-path: Consultas_DTE Setup 1.0.1.exe
-sha512: hsnoFqiWdv9dcJKpAQ9cgfFVHCObyuUSCtiJy+yFbDLrGgE5aLbxoODOcDNl3Vg+usyOx6N2jqKO1Q2oJMdVBA==
-releaseDate: '2025-05-24T17:17:17.500Z'
+  - url: https://github.com/fredy34009/update-app-dtes/releases/download/1.0.1/Consultas_DTE.Setup.1.0.1.exe
+    sha512: 5L3pCSW3NMwH93TUvBaokV6vAb3F4dJPjvnN3h3YXOmSPlx+HWzhQ3YCBS/KhODfywauCnbFZSMrWFn8S0FVug==
+    size: 120878051
+path: https://github.com/fredy34009/update-app-dtes/releases/download/1.0.1/Consultas_DTE.Setup.1.0.1.exe
+sha512: 5L3pCSW3NMwH93TUvBaokV6vAb3F4dJPjvnN3h3YXOmSPlx+HWzhQ3YCBS/KhODfywauCnbFZSMrWFn8S0FVug==
+releaseDate: '2025-05-23T16:23:05.999Z'
